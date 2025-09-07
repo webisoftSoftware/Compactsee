@@ -1,0 +1,13 @@
+{
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.0.17",
+    "daisyui": "^5.0.9",
+    "tailwindcss": "^4.0.17"
+  },
+  "name": "daisyui-example",
+  "scripts": {
+    "build": "npx @tailwindcss/cli -i ./input.css -o ./src/style.css",
+    "watch": "npx @tailwindcss/cli -i ./input.css -o ./src/style.css --watch"
+  },
+  "version": "1.0.0"
+}
