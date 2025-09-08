@@ -60,3 +60,7 @@ To quickly test CompactSee, you can use this sample contract address:
 ```
 
 Perfect for developers building on Midnight who need to monitor their smart contracts during development and testing phases.
+
+## License
+
+Open-source under the Apache License, Version 2.0.
